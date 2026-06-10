@@ -201,7 +201,7 @@ The dumper iterates through all pages in the target process, leveraging EAC to d
 - [x] Finish Emulation
 - [ ] Finish Dumper
 - [ ] Add Thead Hijacking execution
-- [ ] Finish KPP Bypass for different versions
+- [ ] Implement PatchGuard Bypass
 
 ## Conclusion
 Hyperspace is a comprehensive kernel driver built to bypass anti-cheat integrity checks. <br />
